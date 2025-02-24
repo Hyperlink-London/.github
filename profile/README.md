@@ -18,17 +18,6 @@ Our mission is to accelerate the implementation of Hyperloop systems in Europe b
 
 We are in the process of building London's first fully operational Hyperloop pod. This project focuses on creating a financially viable prototype that demonstrates the potential for future scalability and real-world application.
 
-### Social Sustainability
-
-Our team is developing strategies to ensure that Hyperloop technology integrates seamlessly with local communities, existing infrastructure, and the environment. We aim to maximize utility while minimizing environmental impact, fostering sustainable urban development.
-
-### Safety and Comfort
-
-We are addressing critical aspects of passenger safety and comfort by researching and developing:
-
-- **Magnetic Shielding**: Designing protective measures against electromagnetic fields generated during Hyperloop travel.
-- **Ergonomic Seating**: Creating inclusive and comfortable seating arrangements that ensure passenger safety during various operational scenarios, including emergency braking.
-
 ## Achievements
 
 Since our inception in 2020, Hyperlink London has garnered several accolades, including:
