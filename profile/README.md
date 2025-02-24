@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hyperlink London
+![Hyperlink London Logo](https://images.squarespace-cdn.com/content/v1/619932c46607983c02e7ce66/04415616-49c5-4975-bd8d-efb191161027/Hyperlink+-+NoBG.png?format=1500w)
 
 </div>
 
