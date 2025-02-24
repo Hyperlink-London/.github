@@ -6,7 +6,7 @@
 
 ## Overview
 
-Hyperlink London is a student-led organization based at Queen Mary University of London, dedicated to pioneering the future of transportation through the development of Hyperloop technology. Our multidisciplinary team comprises over 70 talented individuals from various academic backgrounds and universities across London, all united by a shared vision to revolutionize high-speed travel.
+Hyperlink London is a student-led organisation based at Queen Mary University of London, dedicated to pioneering the future of transportation through the development of Hyperloop technology. Our multidisciplinary team comprises over 70 talented individuals from various academic backgrounds and universities across London, all united by a shared vision to revolutionize high-speed travel.
 
 ## Mission
 
@@ -28,7 +28,7 @@ Since our inception in 2020, Hyperlink London has garnered several accolades, in
 
 ## Departments
 
-Our organization is structured into several key departments:
+Our organisation is structured into several key departments:
 
 - **Engineering**: Focused on the design and development of core systems for the Hyperloop pod, ensuring efficient and safe operations.
 - **Research**: Conducting studies on the feasibility, safety, and societal impact of Hyperloop technology, with dedicated teams in Biomedical and Scalability research.
