@@ -34,3 +34,11 @@ Our organisation is structured into several key departments:
 - **Research**: Conducting studies on the feasibility, safety, and societal impact of Hyperloop technology, with dedicated teams in Biomedical and Scalability research.
 - **Operations**: Managing partnerships, marketing, logistics, and outreach to ensure smooth project execution and community engagement.
 - **Associates Team**: Providing new members with opportunities to explore various departments, build skills through training sessions and workshops, and contribute to innovative projects.
+
+## Sponsorship Opportunities
+
+Hyperlink London is actively seeking partnerships with organizations and individuals who are passionate about shaping the future of sustainable transportation.
+
+If you are interested in sponsoring Hyperlink London, please visit our [Sponsorship Page](https://www.hyperlinklondon.com/contact) or reach out to us directly at [hyperlink@qmsu.org](mailto:hyperlink@qmsu.org).
+
+
